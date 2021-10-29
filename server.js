@@ -1,3 +1,10 @@
+/* 
+File name: book.js
+Student Name: Roman Gagarin
+Student #: 300866285
+Date: October 29th, 2021
+*/
+
 let app = require('./server/config/app');
 let debug = require('debug')('comp308-w2019-midterm:server');
 let http = require('http');

@@ -1,3 +1,10 @@
+/* 
+File name: book.js
+Student Name: Roman Gagarin
+Student #: 300866285
+Date: October 29th, 2021
+*/
+
 // modules required for routing
 let express = require('express');
 let router = express.Router();
